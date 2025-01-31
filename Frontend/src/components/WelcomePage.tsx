@@ -1,5 +1,5 @@
 import type React from "react"
-import image from '../assets/image.png'
+ 
 interface WelcomePageProps {
   onStart: () => void
 }
