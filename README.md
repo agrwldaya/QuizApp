@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed on your local machine:
 ## Screenshots
 
 ![Welcome Page](./Frontend/src/assets/Quiz.jpg)
-*Welcome Page of the Quiz Application*
+*Welcome Page of the Quiz Application* 
 
  
  
