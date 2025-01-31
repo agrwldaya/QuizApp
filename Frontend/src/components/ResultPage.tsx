@@ -1,16 +1,13 @@
 import React, { useEffect, useState } from 'react';
  
 interface ResultPageProps {
+backtoHome: () => void; 
   score: number;
   attempted: number;
   correct: number;
   wrong: number;
 }
-
 const ResultPage: React.FC<ResultPageProps> = ({backtoHome, score, attempted, correct, wrong }) => {
- 
-    
- 
   return (
     <div className="text-center">
       <h2 className="text-4xl font-bold mb-8 text-primary">Quiz Results</h2>

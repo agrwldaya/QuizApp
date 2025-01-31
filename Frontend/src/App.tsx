@@ -4,8 +4,7 @@ import WelcomePage from "./components/WelcomePage"
 import RulesPage from "./components/RulesPage"
 import QuizPage from "./components/QuizPage"
 import ResultPage from "./components/ResultPage"
- 
-import image from './assets/Quiz.jpg'
+
 const App: React.FC = () => {
   const [currentPage, setCurrentPage] = useState<"welcome" | "rules" | "quiz" | "result">
   ("welcome")
