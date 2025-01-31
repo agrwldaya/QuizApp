@@ -35,8 +35,21 @@ Before you begin, ensure you have the following installed on your local machine:
 
 ## Screenshots
 
-![Welcome Page](./Frontend/src/assets/Quiz.jpg)
-*Welcome Page of the Quiz Application* 
-
+<details>
+  <summary>Click to see slideshow</summary>
+  
+  <div align="center">
+    <img src="./screenshots/welcome-page.png" width="600" alt="Welcome Page">
+    <img src="./screenshots/quiz-page.png" width="600" alt="Quiz Page">
+    <img src="./screenshots/results-page.png" width="600" alt="Results Page">
+  </div>
+</details>
  
+ ## Demo Video
+
+ <div align="center">
+  <a href="/Frontend/src/assets/Screen Recording 2025-02-01 013232.mp4">
+    <img src="./screenshots/video-thumbnail.png" alt="Demo Video" width="600" height="338">
+  </a>
+</div>
  

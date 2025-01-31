@@ -1,4 +1,5 @@
-
+ 
+ 
 interface ResultPageProps {
 backtoHome: () => void; 
   score: number;
