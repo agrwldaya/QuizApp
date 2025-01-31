@@ -48,8 +48,7 @@ Before you begin, ensure you have the following installed on your local machine:
  ## Demo Video
 
  <div align="center">
-  <a>
-    <img src="./Frontend/src/assets/Screen Recording 2025-02-01 013957.mp4" alt="Demo Video" width="600" height="338">
-  </a>
+    <video src="./Frontend/src/assets/Screen Recording 2025-02-01 013957.mp4" alt="Demo Video" width="600" height="338">
+
 </div>
  
