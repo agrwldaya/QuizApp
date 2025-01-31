@@ -38,11 +38,11 @@ Before you begin, ensure you have the following installed on your local machine:
  
    
   <div align="center">
-    <img src="/Frontend/src/assets/img01.png" width="300" alt="Welcome Page">
-    <img src="/Frontend/src/assets/img02.png" width="300" alt="Quiz Page">
-    <img src="/Frontend/src/assets/img03.png" width="300" alt="Quiz Page">
-    <img src="/Frontend/src/assets/img04.png" width="300" alt="Quiz Page">
-    <img src="/Frontend/src/assets/img05.png" width="300" alt="Results Page">
+    <img src="/Frontend/src/assets/img01.png" width="500" alt="Welcome Page">
+    <img src="/Frontend/src/assets/img02.png" width="500" alt="Quiz Page">
+    <img src="/Frontend/src/assets/img03.png" width="500" alt="Quiz Page">
+    <img src="/Frontend/src/assets/img04.png" width="500" alt="Quiz Page">
+    <img src="/Frontend/src/assets/img05.png" width="500" alt="Results Page">
   </div>
  
 ## Demo Video
