@@ -23,7 +23,7 @@ const QuizPage: React.FC<QuizPageProps> = ({ onComplete }) => {
       if (fetchedOnce.current) return;
 
       try {
-        const response = await fetch("/api");
+        const response = await fetch("https://api.jsonserve.com/Uw5CrX");
         const data = await response.json();
 
         if (data.questions && data.questions.length > 0) {
