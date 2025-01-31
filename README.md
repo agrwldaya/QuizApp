@@ -35,20 +35,20 @@ Before you begin, ensure you have the following installed on your local machine:
 
 ## Screenshots
 
-<details>
-  <summary>Click to see slideshow</summary>
-  
+ 
+   
   <div align="center">
-    <img src="/Frontend/src/assets/img01.png" width="600" alt="Welcome Page">
-    <img src="/Frontend/src/assets/img02.png" width="600" alt="Quiz Page">
-    <img src="/Frontend/src/assets/img03.png" width="600" alt="Results Page">
-    <img src="/Frontend/src/assets/img04.png" width="600" alt="Results Page">
-    <img src="/Frontend/src/assets/img05.png" width="600" alt="Results Page">
+    <img src="/Frontend/src/assets/img01.png" width="300" alt="Welcome Page">
+    <img src="/Frontend/src/assets/img02.png" width="300" alt="Quiz Page">
+    <img src="/Frontend/src/assets/img03.png" width="300" alt="Quiz Page">
+    <img src="/Frontend/src/assets/img04.png" width="300" alt="Quiz Page">
+    <img src="/Frontend/src/assets/img05.png" width="300" alt="Results Page">
   </div>
-</details>
  
 ## Demo Video
 
-<div align="center"> <video controls width="600" height="338"> <source src="/Frontend/src/assets/Screen Recording 2025-02-01 013957.mp4" type="video/mp4"> Your browser does not support the video tag. </video> </div>
+<div align="center"> <video controls width="600" height="338"> 
+<source src="/Frontend/src/assets/Screen Recording 2025-02-01 013957.mp4" type="video/mp4"> Your browser does not support the video tag. </video> 
+</div>
 
  
