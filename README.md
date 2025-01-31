@@ -47,11 +47,6 @@ Before you begin, ensure you have the following installed on your local machine:
  
 ## Demo Video
 
-<div align="center">
-    <video controls width="600" height="338">
-        <source src="/Frontend/src/assets/Screen Recording 2025-02-01 013957.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
-</div>
+<div align="center"> <video controls width="600" height="338"> <source src="/Frontend/src/assets/Screen Recording 2025-02-01 013957.mp4" type="video/mp4"> Your browser does not support the video tag. </video> </div>
 
  
