@@ -17,7 +17,7 @@ This is a simple quiz application built with React and TypeScript. It features a
 - React
 - TypeScript
 - Tailwind CSS
-- Framer Motion
+ 
 
 ## Prerequisites
 
