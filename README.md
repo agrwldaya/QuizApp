@@ -39,9 +39,11 @@ Before you begin, ensure you have the following installed on your local machine:
   <summary>Click to see slideshow</summary>
   
   <div align="center">
-    <img src="./screenshots/welcome-page.png" width="600" alt="Welcome Page">
-    <img src="./screenshots/quiz-page.png" width="600" alt="Quiz Page">
-    <img src="./screenshots/results-page.png" width="600" alt="Results Page">
+    <img src="/Frontend/src/assets/img01.png" width="600" alt="Welcome Page">
+    <img src="/Frontend/src/assets/img02.png" width="600" alt="Quiz Page">
+    <img src="/Frontend/src/assets/img03.png" width="600" alt="Results Page">
+    <img src="/Frontend/src/assets/img04.png" width="600" alt="Results Page">
+    <img src="/Frontend/src/assets/img05.png" width="600" alt="Results Page">
   </div>
 </details>
  
