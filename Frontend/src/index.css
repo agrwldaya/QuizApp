@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+   
+.backgroundStyle{
+   background-image: url(./assets/Quizbackground.jpg);
+   background-size: cover;
+   background-position: center;
+}
+
+.frame{
+  background-image: url(./assets/Quiz.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+
