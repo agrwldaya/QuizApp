@@ -30,13 +30,11 @@ Before you begin, ensure you have the following installed on your local machine:
 
 1. Clone the repository:
 2. Navigate to the project directory:
-3. Install the dependencies:npm i
+3. Install the dependencies: npm i
 4. npm run dev
 
 ## Screenshots
 
- 
-   
   <div align="center">
     <img src="/Frontend/src/assets/img01.png" width="500" alt="Welcome Page">
     <img src="/Frontend/src/assets/img02.png" width="500" alt="Quiz Page">
